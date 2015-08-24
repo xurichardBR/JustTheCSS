@@ -1,0 +1,36 @@
+body {
+	padding-top:70px;
+	padding-left:30px;
+	padding-right:30px; 
+	padding-bottom: 70px;
+}
+
+
+table {
+    width: 100%;
+}
+
+
+th {
+    height: 50px;
+    font-weight: normal;
+}
+
+div.graphHolder{
+	display:table-cell;
+	border: 1px solid black;
+	overflow-y: auto;
+}
+
+div.plotdiv{
+}
+
+
+div.graphRow{
+	display:table-row;
+}
+
+div.graphList{
+	display:table;
+}
+
